@@ -43,6 +43,7 @@ Results
 ⸻
 
 Learning Outcomes
+
 	•	Applied mathematical modelling to a real-world operations problem.
 	•	Developed practical experience in simulation design, data-driven decision-making, and optimisation under uncertainty.
 	•	Strengthened analytical and programming skills relevant to data, product, and growth roles.
