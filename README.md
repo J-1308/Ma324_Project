@@ -8,6 +8,7 @@ Developed as part of MA324: Mathematical Modelling & Simulation at the London Sc
 ⸻
 
 Objectives
+
 	•	Design a data-driven simulation of EV charger utilisation and customer flow.
 	•	Model driver arrivals, charging times, and abandonment behaviour using stochastic processes (Poisson and exponential distributions).
 	•	Compare system efficiency under varying mixes of fast and slow chargers.
@@ -16,6 +17,7 @@ Objectives
 ⸻
 
 Key Features
+
 	•	Nonhomogeneous Poisson arrivals to represent fluctuating demand over time.
 	•	Customer patience model incorporating probabilistic abandonment thresholds.
 	•	Dual-queue design (fast vs slow chargers) simulated using event scheduling.
@@ -25,6 +27,7 @@ Key Features
 ⸻
 
 Tools & Technologies
+
 	•	R – for discrete-event simulation, data analysis, and visualisation.
 	•	AMPL / CPLEX – for optimisation modelling and scenario testing.
 	•	Mathematical Techniques: queueing theory, stochastic modelling, nonlinear optimisation.
@@ -32,6 +35,7 @@ Tools & Technologies
 ⸻
 
 Results
+
 	•	Identified optimal balance between fast and slow chargers to minimise waiting time.
 	•	Quantified trade-offs between charger utilisation and customer abandonment.
 	•	Provided data-driven recommendations to improve customer satisfaction and throughput.
